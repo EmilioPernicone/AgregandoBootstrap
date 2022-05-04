@@ -1,0 +1,7 @@
+Aplico keywords para cada unos de los html
+
+Aplico descripcion de cada unos de los html
+
+Cambio de titulos 
+
+Agrego extend y mixing al sass

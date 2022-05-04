@@ -1,7 +1,6 @@
 {
   "name": "levis-pernicone",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +14,6 @@
   "bugs": {
     "url": "https://github.com/EmilioPernicone/AgregandoBootstrap/issues"
   },
-  "homepage": "https://github.com/EmilioPernicone/AgregandoBootstrap#readme"
+  "homepage": "https://github.com/EmilioPernicone/AgregandoBootstrap#readme",
+  "description": ""
 }

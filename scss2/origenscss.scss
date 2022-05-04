@@ -27,3 +27,16 @@ div p button {
 footer span{
     color:white;
 }
+@mixin posicion ($margin,$padding,$justify-content) {
+    margin: $margin;
+    padding: $padding;
+    justify-content: $justify-content;
+    
+}
+div body{
+    @include posicion(0,10,center);
+}
+.bodynuevo{
+    @extend body ;
+    color:black;
+}

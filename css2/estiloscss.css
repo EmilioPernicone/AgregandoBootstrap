@@ -2,15 +2,15 @@
   color: black;
 }
 
-body {
+body, .bodynuevo {
   width: 100%;
   background-color: gray;
 }
-body a {
+body a, .bodynuevo a {
   font-size: large;
 }
 
-div body {
+div body, div .bodynuevo {
   margin: 0px;
   padding: 10px;
   justify-content: center;
@@ -29,6 +29,16 @@ div p button {
 
 footer span {
   color: white;
+}
+
+div body, div .bodynuevo {
+  margin: 0;
+  padding: 10;
+  justify-content: center;
+}
+
+.bodynuevo {
+  color: black;
 }
 
 /*# sourceMappingURL=estiloscss.css.map */
