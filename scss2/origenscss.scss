@@ -3,7 +3,7 @@
 }
 body{
     width: 100%;
-    background-color:gray;
+    background-color: black;
     a {
         font-size: large;
     }
@@ -40,3 +40,32 @@ div body{
     @extend body ;
     color:black;
 }
+
+#presentacionRopa {
+       background-image:url("../img/fondoLevis.png");
+       background-color: black;
+}
+form label{
+    color: white;
+}
+
+.colorBoton{
+    color:white;
+    background-color: black;
+    border-color: black;
+
+}
+.colorBotonMujeres{
+    color: black;
+    border-color: pink;
+    background-color: pink;
+}
+.colorBotonHombre{
+    color: black;
+    border-color:lightblue;
+    background-color:lightblue;
+}
+
+
+
+    
