@@ -1,29 +1,34 @@
+// COMENTARIO SASS
 .colorFuente{
     color:black;
 }
-body{
+//Cambio de color y tamaño de fuente
+body{  
     width: 100%;
     background-color: black;
     a {
         font-size: large;
     }
 }
-div body{
+// Separacion entre las cards
+div body{ 
     margin: 0px;
     padding: 10px;
     justify-content: center;
     
 }
+//Cambio de tamaño y posicion de precios
 div p{
     margin: 0px;
     padding:10px 150px;
     font-size: large;
 }
+//Cambio posicion de botones de tarjetas
 div p button {
     margin: 0;
     padding: 10px 150px;
 }
-
+//Cambio color de contenido del footer
 footer span{
     color:white;
 }
@@ -65,7 +70,11 @@ form label{
     border-color:lightblue;
     background-color:lightblue;
 }
-
+.colorBotonNinos {
+    color: black;
+    border-color:rebeccapurple;
+    background-color: rebeccapurple;
+}
 
 
     

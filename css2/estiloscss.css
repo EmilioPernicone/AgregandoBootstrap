@@ -68,4 +68,10 @@ form label {
   background-color: lightblue;
 }
 
+.colorBotonNinos {
+  color: black;
+  border-color: rebeccapurple;
+  background-color: rebeccapurple;
+}
+
 /*# sourceMappingURL=estiloscss.css.map */
